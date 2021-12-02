@@ -5,26 +5,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-header {
-    width: 100%;
-    padding: 25px 10px;
-  }
 
-  .list{
-      list-style: none;
-      display: inline;
-      padding: 20px;
-  }
-
-  a{
-      color: black;
-      text-decoration: none;
-      cursor: pointer;
-  }
-
-  .logo {
-      width: 100px;
-  }
 
   section{
       margin-top: 5%;
@@ -79,38 +60,5 @@ header {
     padding-bottom: 5%;
 }
 
-footer ul li {
-    list-style: none;
-}
 
- form .email{
-    width: 300px;
-    height: 30px;
-    border: solid 1px black;
-    border-radius: 3px;
-  }
-
-  form .sing-up{
-    height: 30px;
-        margin: 30px;
-        border-radius: 3px;
-        border-style: none;
-        cursor: pointer;
-        background-color: orange;
-        color: white;
-        text-align: center;
-  }
-  
-  
-
-footer{
-    background-color: black;
-    color: white;
-    padding: 50px;
-}
-
-.copy{
-    margin-top: 2%;
-    background-color:rgb(3, 35, 65);
-}
 
