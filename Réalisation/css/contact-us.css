@@ -1,5 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 input, select {
-    width: 50%;
+    width: 100%;
     padding: 12px 10px;
     margin:  15px 0;
     border: 1px solid #ccc;
@@ -14,7 +21,7 @@ input, select {
 
 textarea {
     resize: none;
-    width: 50%;
+    width: 100%;
     border: 1px solid #ccc;
     border-radius: 4px;
     padding: 12px 10px;
@@ -30,9 +37,39 @@ textarea {
     border-radius: 4px;
     color: white;
     margin-bottom: 50px;
+    margin-left: 50%;
     cursor: pointer;
 }
 
+.info{
+    margin-top: 8%;
+}
+
 .contact{
-    justify-content: center;
+   text-align: center;
+   margin-top: 10%;
+}
+
+.titre{
+    color: orange;
+    font-size: 40px;
+}
+
+.p-contact{
+    color: gray;
+}
+
+.contact-shop{
+    margin-top: 20%;
+    text-align: center;
+}
+
+.heurs{
+    margin-top: 10%;
+    text-align: center;
+}
+
+.heurs-special{
+    margin-top: 10%;
+    text-align: center;
 }
