@@ -34,10 +34,11 @@ footer ul li {
 }
 
  form .email{
-    width: 300px;
+    width: 100%;
     height: 30px;
     border: solid 1px black;
     border-radius: 3px;
+    margin-top: 10px;
   }
 
   form .sing-up{
